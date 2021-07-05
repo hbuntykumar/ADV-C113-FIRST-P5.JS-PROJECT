@@ -1,0 +1,21 @@
+h3 {
+    font-size: 25px !important;
+  }
+
+  canvas {
+    border:10px solid cyan;
+    margin-left: 185px;
+  }
+
+  body {
+    background: yellow;
+    text-align: center;
+  }
+
+  circle {
+    background: green;
+  }
+
+  rect {
+    background: red;
+  }
